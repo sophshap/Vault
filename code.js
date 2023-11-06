@@ -11,8 +11,8 @@ alert(greeting)
 
 // assign variables
 const var1 = 5 + 5
-const var2 = 5 * 5
-const var3 = 5 - 5
+const var2 = 10 * 4
+const var3 = 40 - 1
 
 // alert with combo
 alert(`${var1} ${var2} ${var3}`)
